@@ -180,7 +180,9 @@
   display: none;
 }
 
-#video__container{
+
+
+#stream__box .video__container{
   border: 2px solid #000;
   border-radius: 0;
   height: 100%!important;
@@ -214,7 +216,7 @@
   height: 300px;
   width: 300px;
 
-  background-image: url("/images/logo.png");
+  background-image: url("");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 75px;
